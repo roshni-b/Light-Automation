@@ -1,5 +1,5 @@
 # Arduino based motion-sensing light automation system
-### Objective: To simulate a lighting system which gets powered on detecting motion using a PIR sensor and an Arduino. 
+### Objective: Simulating a lighting system which gets powered on detecting motion using a PIR sensor and an Arduino. 
 
 ## Requirements:
 The following four components are going to be used in this project: 
@@ -27,7 +27,7 @@ The following four components are going to be used in this project:
 The basic circuit using the PIR sensor was simulated on the breadboard which on sensing any motion (hand movement) turned the LED lights on, the serial monitor recorded the detection of motion, and the LEDs turned off after 3 seconds. The sensitivity was turned to least so it can sense motion only nearer to it.
 
 ## References:
-1. <www.instructables.com>
-2. <www.learn.sparkfun.com>
-3. <www.electronicshub.org> 
+1. www.instructables.com
+2. www.learn.sparkfun.com
+3. www.electronicshub.org
 4. Husin, Rohaida, et al. ”Automatic street lighting system for energy efficiency based on low cost microcontroller.” International Journal of Simulation Sys- tems, Science Technology 13.1 (2012): 1473-8031.
